@@ -1,0 +1,3 @@
+/home/s339562/Pulpit/Semestr2/cpp lista5/build/CMakeFiles/image.dir
+/home/s339562/Pulpit/Semestr2/cpp lista5/build/CMakeFiles/edit_cache.dir
+/home/s339562/Pulpit/Semestr2/cpp lista5/build/CMakeFiles/rebuild_cache.dir

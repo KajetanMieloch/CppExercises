@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/s339562/Pulpit/Semestr2/cpp lista5/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/image.dir/main.cpp.o -c \"/home/s339562/Pulpit/Semestr2/cpp lista5/main.cpp\"",
+  "file": "/home/s339562/Pulpit/Semestr2/cpp lista5/main.cpp"
+},
+{
+  "directory": "/home/s339562/Pulpit/Semestr2/cpp lista5/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/image.dir/image.cpp.o -c \"/home/s339562/Pulpit/Semestr2/cpp lista5/image.cpp\"",
+  "file": "/home/s339562/Pulpit/Semestr2/cpp lista5/image.cpp"
+}
+]
